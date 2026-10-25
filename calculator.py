@@ -13,6 +13,10 @@ def _ready():
         "sqrt": lambda n1, n2: sqrt(n1),
         "cbrt": lambda n1, n2: cbrt(n1),
         "PI": lambda n1, n2: n1 * pi,
+        "*PI": lambda n1, n2: n1 * pi,
+        "-PI": lambda n1, n2: n1 - pi,
+        "+PI": lambda n1, n2: n1 + pi,
+        "/PI": lambda n1, n2: n1 / pi,
 		"%": lambda n1, n2: (n1 / n2) * 100
     }
 
@@ -24,7 +28,10 @@ def _ready():
         "**",
         "sqrt",
         "cbrt",
-        "PI"
+        "*PI",
+        "-PI",
+        "+PI",
+        "/PI"
     }
 
     print("List of valid operators: " + str(listoperations))
