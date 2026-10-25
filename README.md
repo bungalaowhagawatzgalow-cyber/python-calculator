@@ -2,16 +2,17 @@
 
 A command-line calculator built with Python, designed to practise programming fundamentals while creating a useful everyday tool.
 
-![Python](https://img.shields.io/badge/Python-3.14-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-In_Development-orange?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3.14-3776AB?style=flat&logo=python&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green?style=flat)
+![Status](https://img.shields.io/badge/Status-In_Development-orange?style=flat)
+
 
 ## Features
 
 - Addition, subtraction, multiplication, and division
 - Exponentiation
 - Square roots and cube roots
-- Multiplication by pi
+- Multiplication with π
 - Percentage calculations
 - Numeric input validation
 - Division-by-zero checking
