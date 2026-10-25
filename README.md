@@ -64,7 +64,7 @@ This project helped me practise:
 
 - [x] Fix and test all percentage-mode edge cases
 - [x] Add division, addition and subtraction with PI
-- [ ] Improve invalid operator handling
+- [x] Improve invalid operator handling
 - [ ] Add a graphical user interface
 - [ ] Add automated tests
 
