@@ -12,7 +12,7 @@ A command-line calculator built with Python, designed to practise programming fu
 - Addition, subtraction, multiplication, and division
 - Exponentiation
 - Square roots and cube roots
-- Multiplication with π
+- Addition, subtraction, multiplication, and division with π
 - Percentage calculations
 - Numeric input validation
 - Division-by-zero checking
