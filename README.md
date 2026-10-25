@@ -2,7 +2,7 @@
 
 A command-line calculator built with Python, designed to practise programming fundamentals while creating a useful everyday tool.
 
-![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.14-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-In_Development-orange?style=for-the-badge)
 
