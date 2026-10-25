@@ -46,9 +46,9 @@ A command-line calculator built with Python, designed to practise programming fu
 
 ## Built With
 
-- **Python** — core programming language
-- **`math`** — mathematical functions and constants
-- **`time`** — simple delays in the command-line experience
+- **Python** = core programming language
+- **`math`** = mathematical functions and constants
+- **`time`** = simple delays in the command-line experience
 
 ## What I Learned
 
