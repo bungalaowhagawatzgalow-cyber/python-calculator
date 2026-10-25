@@ -62,7 +62,7 @@ This project helped me practise:
 
 ## Future Improvements
 
-- [ ] Fix and test all percentage-mode edge cases
+- [x] Fix and test all percentage-mode edge cases
 - [ ] Improve invalid operator handling
 - [ ] Add a graphical user interface
 - [ ] Add automated tests
