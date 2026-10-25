@@ -55,7 +55,7 @@ def _ready():
         try:
             n1 = float(input("First Number = "))
 
-            if op not in ("sqrt", "cbrt", "PI"):  # if neither of these are used, then will allow for a second number
+            if op not in ("sqrt", "cbrt", "*PI", "/PI", "+PI", "-PI"):  # if neither of these are used, then will allow for a second number
                 n2 = float(input("Second Number = "))
 
             break
@@ -71,7 +71,7 @@ def _ready():
 
     if percentagemode.lower() == "no":  # if the value is true then it will do normal arithmetic
         if op in operators:
-            if op in ("sqrt", "cbrt", "PI"):  # if its any of these numbers then it wont ask for a seconnd number
+            if op in ("sqrt", "cbrt", "*PI", "/PI", "+PI", "-PI"):  # if its any of these numbers then it wont ask for a seconnd number
                 result = operators[op](n1, None)
             else:
                 result = operators[op](n1, n2)
